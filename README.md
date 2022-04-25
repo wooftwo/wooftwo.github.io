@@ -1,2 +1,2 @@
-# wooftwo.github.io
+# Dima Voynov
 Практикум
